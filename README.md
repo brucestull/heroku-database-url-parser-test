@@ -1,6 +1,7 @@
 # Heroku Parser Test
 
 * <https://flynnt-knapp-parser-test.herokuapp.com/>
+* <https://github.com/brucestull/heroku-parser-test>
 
 ## Heroku CLI Fun!!!
 
