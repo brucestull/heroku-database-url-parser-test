@@ -2,6 +2,8 @@
 
 * <https://flynnt-knapp-parser-test.herokuapp.com/>
 * <https://github.com/brucestull/heroku-parser-test>
+* Source code for the URL Parser
+    * <https://github.com/brucestull/django-heroku-database-url-parser>
 
 ## Heroku CLI Fun
 
