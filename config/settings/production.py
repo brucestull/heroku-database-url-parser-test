@@ -1,6 +1,7 @@
+import os
+
 from config.settings.common import *
 from utils import get_database_config_variables
-import os
 
 
 DEBUG = False
@@ -12,7 +13,6 @@ ALLOWED_HOSTS = ['flynnt-knapp-parser-test.herokuapp.com']
 MIDDLEWARE = MIDDLEWARE + ['whitenoise.middleware.WhiteNoiseMiddleware']
 
 
-# STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 STATIC_ROOT = BASE_DIR / 'staticfiles'
 
 
