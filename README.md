@@ -104,6 +104,7 @@ the `DATABASE_URL` environment variable provided by Heroku and assign it to the 
         * These values are different for each Heroku app.
         * These values shown are for a Heroku app that has been deleted.
         They are only shown here for illustrative purposes.
+        * True values of a current application are not shown here since we don't want to provide these to the public. We don't want the public to be able to access our database.
 
     ```python
     >>> database_config_variables
